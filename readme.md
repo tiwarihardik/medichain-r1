@@ -9,7 +9,6 @@ This submission includes the **non-functional UI prototypes** of MediChain. We h
 
 ## **What’s Not Included Yet**  
 ❌ Functional backend & API integration  
-❌ UI builds for **Doctor, Insurance, Admin, and Hospital Dashboards** (under development)  
 
 ## **Development Progress & Next Steps**  
 🚧 Full-stack development is actively in progress, focusing on:  
