@@ -1,7 +1,7 @@
 # **MediChain Prototype – Round 1 Submission**  
 
 This submission includes the **non-functional UI prototypes** of MediChain. We have provided **static builds** for various pages to showcase the design and layout of the platform. **This is a UI-only prototype, and backend functionalities are still under development.**  
-
+![icon](https://github.com/tiwarihardik/medichain-r1/blob/main/icon.png)
 ## **Submission Contents**  
 ✅ **Static UI Builds** of key pages  
 ✅ **Raw code files** for reference  
@@ -19,6 +19,7 @@ This submission includes the **non-functional UI prototypes** of MediChain. We h
 
 ## **Why MediChain?**  
 MediChain is a **decentralized health records management system** that leverages **blockchain and AI** to enhance **data security, privacy, and interoperability** in healthcare. With **patient-centric control** and **seamless data sharing**, MediChain addresses a critical gap in the industry, making healthcare **more efficient, secure, and accessible.**  
+![lld](https://github.com/tiwarihardik/medichain-r1/blob/main/medichain_lld.png)
 
 ## **Team Details**  
 👥 **Team:** Mega Minds  
